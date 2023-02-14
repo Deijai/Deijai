@@ -26,9 +26,9 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deija%c3%ad-miranda-almeida-345784108/" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:/ /www.linkedin.com/in/deija%c3%ad-miranda-almeida-345784108/" height="30" width="40" /></a>
-<a href="https://facebook.com /djair.miranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /facebook.svg" alt="djair.miranda" height="30" width="40" /></a>
-<a href="https://instagram.com/deijai.ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/instagram.svg" alt="deijai.ma" height="30" width="40" /></a>
-<a href="https://discord.gg/deijai#0735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /discord.svg" alt="deijai" height="30" width="40" /></a>
+<a href="https://www.facebook.com/djair.miranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="djair.miranda" height="30" width="40" /></a>
+<a href="https://instagram.com/deijai.ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deijai.ma" height="30" width="40" /></a>
+<a href="https://discord.gg/deijai#0735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deijai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
