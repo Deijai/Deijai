@@ -105,7 +105,7 @@ miranda-almeida-345784108/)
                 height="40" /> </a> 
                  <a href="https://nestjs.com/" target="_blank"
             rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/nestjs/nestjs-plain.svg"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
                 alt="nestjs" width="40" height="40" /> </a> <a href="https://www.nginx.com" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -119,7 +119,7 @@ miranda-almeida-345784108/)
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
                 width="40" height="40" /> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql /postgresql-original-wordmark.svg"
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
                 alt="postgresql" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -129,7 +129,7 @@ miranda-almeida-345784108/)
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
                 alt="redux" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank"
             rel="noreferrer"> <img
-                src="https://raw.githubusercontent. com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
                 width="40" height="40" /> </a> <a href="https://spring. io/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
                 height="40 " /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
