@@ -22,8 +22,7 @@
 - 📫 Como chegar até mim **djairn18@gmail.com**
 
 - 📄 Conheça minhas experiências
-[https://www.linkedin.com/in/deija%C3%AD-miranda-almeida-345784108/](https://www.linkedin.com/in/deija%C3%AD-
-miranda-almeida-345784108/)
+[https://www.linkedin.com/in/deijaí-miranda-almeida-345784108/]
 
 - ⚡ Curiosidade **Estou falando sério :)**
 
